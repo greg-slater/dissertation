@@ -57,7 +57,7 @@ Number of affected patients on GP practice register
 Patients per LSOA with new diagnosis of depression / population of indicator age group per LSOA
 </td>
 <td style="text-align:left;">
-<https://digital.nhs.uk/data-and-information/publications/statistical/quality-and-outcomes-framework-achievement-prevalence-and-exceptions-data/2017-18>
+test other text
 </td>
 </tr>
 <tr>
@@ -77,7 +77,7 @@ Number of affected patients on GP practice register
 Patients per LSOA with new diagnosis of dementia / population of indicator age group per LSOA
 </td>
 <td style="text-align:left;">
-<https://digital.nhs.uk/data-and-information/publications/statistical/quality-and-outcomes-framework-achievement-prevalence-and-exceptions-data/2017-18>
+some more testing
 </td>
 </tr>
 <tr>
@@ -97,7 +97,7 @@ Number of affected patients on GP practice register
 Patients per LSOA with BMI ≥ 30 / population of indicator age group per LSOA
 </td>
 <td style="text-align:left;">
-<https://digital.nhs.uk/data-and-information/publications/statistical/quality-and-outcomes-framework-achievement-prevalence-and-exceptions-data/2017-18>
+NA
 </td>
 </tr>
 <tr>
@@ -117,7 +117,7 @@ Number of affected patients on GP practice register
 Patients per LSOA with new diagnosis of hypertension / population of indicator age group per LSOA
 </td>
 <td style="text-align:left;">
-<https://digital.nhs.uk/data-and-information/publications/statistical/quality-and-outcomes-framework-achievement-prevalence-and-exceptions-data/2017-18>
+NA
 </td>
 </tr>
 <tr>
@@ -140,7 +140,7 @@ point
 Mean concentration of NO2 per LSOA
 </td>
 <td style="text-align:left;">
-<https://data.london.gov.uk/dataset/london-atmospheric-emissions-inventory-2013>
+NA
 </td>
 </tr>
 <tr>
@@ -157,7 +157,7 @@ point
 Mean concentration of Nox per LSOA
 </td>
 <td style="text-align:left;">
-<https://data.london.gov.uk/dataset/london-atmospheric-emissions-inventory-2013>
+NA
 </td>
 </tr>
 <tr>
@@ -174,7 +174,7 @@ point
 Mean concentration of PM2.5 per LSOA
 </td>
 <td style="text-align:left;">
-<https://data.london.gov.uk/dataset/london-atmospheric-emissions-inventory-2013>
+NA
 </td>
 </tr>
 <tr>
@@ -191,7 +191,7 @@ point
 Mean concentration of PM10 per LSOA
 </td>
 <td style="text-align:left;">
-<https://data.london.gov.uk/dataset/london-atmospheric-emissions-inventory-2013>
+NA
 </td>
 </tr>
 <tr>
@@ -211,7 +211,7 @@ raster
 Mean ambient temperature per LSOA
 </td>
 <td style="text-align:left;">
-<https://data.london.gov.uk/dataset/london-s-urban-heat-island---average-summer>
+NA
 </td>
 </tr>
 <tr>
@@ -231,7 +231,7 @@ smallest polygon = 4m²
 Proportion of LSOA area with any risk of surface water flooding
 </td>
 <td style="text-align:left;">
-<https://environment.data.gov.uk/dataset/924d4380-d465-11e4-bf2a-f0def148f590>
+NA
 </td>
 </tr>
 <tr>
@@ -251,7 +251,7 @@ smallest polygon = 0.3m²
 Proportion of LSOA area with noise level above 50dB
 </td>
 <td style="text-align:left;">
-<https://data.london.gov.uk/dataset/noise-pollution-in-london>
+NA
 </td>
 </tr>
 <tr>
@@ -268,7 +268,7 @@ smallest polygon = 0.2m²
 Proportion of LSOA area with noise level above 50dB
 </td>
 <td style="text-align:left;">
-<https://data.london.gov.uk/dataset/noise-pollution-in-london>
+NA
 </td>
 </tr>
 </tbody>
