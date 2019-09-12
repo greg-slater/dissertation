@@ -26,7 +26,7 @@ grid <- read_csv('data_grid.csv')
 The table below gives details for each of the datasets used in the model, broken down by ecosystem service category and demand indicator.
 
 
-```{r message=FALSE, warning=FALSE}
+```{r echo=FALSE, message=FALSE, warning=FALSE, paged.print=FALSE}
 kable(grid, align = "l", format = 'markdown') %>%
   kable_styling(full_width = F) %>%
   column_spec(1, bold = T) %>%

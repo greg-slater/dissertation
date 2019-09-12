@@ -7,14 +7,32 @@ output:
   md_document:
     variant: markdown_github
   fig_caption: yes
-  html_document:
-    fig_caption: yes
+  # html_document:
+  #   fig_caption: yes
   
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
+
+# Introduction
+
+In August 2019 I finally finished my MSc in Spatial Data Science and Visualisation at [CASA](https://www.ucl.ac.uk/bartlett/casa/). Below is the executive summary of my dissertation produced for Westminster City Council, who sponsored the project.
+
+More information for various bits:
+
+- If you're a masochist and would like to read the entire project in full you can find the pdf [here](https://github.com/greg-slater/dissertation/tree/master/pdf).
+
+- High quality versions of all tables, charts, maps and diagrams in the pdf can be found [here](https://github.com/greg-slater/dissertation/tree/master/images).
+
+- If you'd like more information about (and links to) all the datasets used you can find that [here](https://github.com/greg-slater/dissertation/tree/master/data).
+
+- And finally, all the scripts used for data processing, modelling and analysis are [here](https://github.com/greg-slater/dissertation/tree/master/scripts). Pretty much everything was done in R. Tidyverse libraries were as ever, invaluable, but I'd like to give a shoutout in particular for the awesome [sf](https://github.com/r-spatial/sf) and [tmap](https://github.com/r-spatial/sf) libraries, which were used to make all the pretty maps.
+
+
+<br></br>
+
 
 # Park Prioritisation: Building a Composite Indicator of Green Infrastructure Demand in London
 
