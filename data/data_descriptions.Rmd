@@ -27,7 +27,7 @@ The table below gives details for each of the datasets used in the model, broken
 
 
 ```{r message=FALSE, warning=FALSE}
-kable(grid, align = "l") %>%
+kable(grid, align = "l", format = 'markdown') %>%
   kable_styling(full_width = F) %>%
   column_spec(1, bold = T) %>%
   collapse_rows(columns = 1:2, valign = "middle")
