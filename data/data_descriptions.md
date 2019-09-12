@@ -97,7 +97,7 @@ Number of affected patients on GP practice register
 Patients per LSOA with BMI ≥ 30 / population of indicator age group per LSOA
 </td>
 <td style="text-align:left;">
-NA
+<https://data.london.gov.uk/dataset/london-atmospheric-emissions-inventory-2013>
 </td>
 </tr>
 <tr>
@@ -117,7 +117,7 @@ Number of affected patients on GP practice register
 Patients per LSOA with new diagnosis of hypertension / population of indicator age group per LSOA
 </td>
 <td style="text-align:left;">
-NA
+“<https://data.london.gov.uk/dataset/london-atmospheric-emissions-inventory-2013>”
 </td>
 </tr>
 <tr>
