@@ -28,6 +28,8 @@ More information for various bits:
 
 - If you'd like more information about (and links to) all the datasets used you can find that [here](https://github.com/greg-slater/dissertation/tree/master/data).
 
+- The slides for a presentation about the project I gave at Westmisnter City Council are available [here](https://github.com/greg-slater/dissertation/blob/master/pdf/Westminster Presentation - G Slater.pdf).
+
 - And finally, all the scripts used for data processing, modelling and analysis are [here](https://github.com/greg-slater/dissertation/tree/master/scripts). Pretty much everything was done in R. Tidyverse libraries were as ever, invaluable, but I'd like to give a shoutout in particular for the awesome [sf](https://github.com/r-spatial/sf) and [tmap](https://github.com/r-spatial/sf) libraries, which were used to make all the pretty maps.
 
 
