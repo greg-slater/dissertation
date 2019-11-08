@@ -5,7 +5,7 @@ In August 2019 I finally finished my MSc in Spatial Data Science and Visualisati
 
 More information for various bits:
 
--   If you're a masochist and would like to read the entire project in full you can find the pdf [here](https://github.com/greg-slater/dissertation/tree/master/pdf).
+-   If you like what you see and want to read the entire project in full, [here's](https://github.com/greg-slater/dissertation/tree/master/pdf) the pdf.
 
 -   High quality versions of all tables, charts, maps and diagrams in the pdf can be found [here](https://github.com/greg-slater/dissertation/tree/master/images).
 
